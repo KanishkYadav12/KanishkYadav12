@@ -42,18 +42,10 @@
 </p>
 
 
-<!-- Fun Q&A Section -->
-<h3 align="center">💭 Quick Fire Round</h3>
+<!-- HTML -->
 <div align="center">
-
-**Q: Why do programmers prefer dark mode?**  
-*A: Because light attracts bugs! 🐛*
-
-**Q: How do you comfort a JavaScript bug?**  
-*A: You console it! 😄*
-
+<img src="https://readme-jokes.vercel.app/api?theme=default&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" />  
 </div>
-<br>
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KanishkYadav12&radius=16&theme=nightowl&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
